@@ -1,5 +1,6 @@
 streamlit
 langchain-groq
 langchain-community
+langchain-core
 pypdf
 python-dotenv
