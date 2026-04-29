@@ -3,8 +3,9 @@ langchain
 langchain-text-splitters
 langchain-groq
 langchain-huggingface
-langchain-chroma
+langchain-chroma==0.1.1
 langchain-community
 PyPDF2
 python-dotenv
 sentence-transformers
+protobuf==4.25.3
