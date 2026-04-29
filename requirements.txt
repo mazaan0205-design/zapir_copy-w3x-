@@ -1,6 +1,7 @@
 streamlit
 langchain-groq
-langchain-community
-langchain-core
+langchain-huggingface
+langchain-chroma
 PyPDF2
 python-dotenv
+sentence-transformers
