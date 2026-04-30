@@ -1,21 +1,11 @@
-# Web Framework
 streamlit
-
-# AI & LLM
-langchain-groq
-langchain-core
-langchain-huggingface
-
-# RAG & Shredding
+langchain
 langchain-text-splitters
-chromadb
+langchain-groq
+langchain-huggingface
+langchain-chroma==0.1.1
+langchain-community
 PyPDF2
-
-# Database & Authentication
-sqlalchemy
-streamlit-google-auth
-google-api-python-client
-google-auth-oauthlib
-
-# Utilities
 python-dotenv
+sentence-transformers
+protobuf==4.25.3
